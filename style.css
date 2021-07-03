@@ -1,0 +1,75 @@
+body{
+    background-color: #1F1F1F;
+
+}
+.container1 {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.bg_photo {
+    position: relative;
+      top: 0;
+      left: 0;
+}
+.logo {
+    position: absolute;
+      top: 35em;
+      left: 9em;
+}
+.first_text{
+    font-family: 'Roxborough CF';
+    position: absolute;
+    top: 43em;
+    left: 9em;
+    color:white;
+}
+.first_text p{
+    font-size: 7em;
+    
+line-height: 100%;
+letter-spacing: -5%;
+}
+.second_text {
+    font-family: 'Telegraf Regular';
+    position: absolute;
+    top: 65em;
+    left: 9em;
+    color:white;
+}
+.second_text p {
+    font-size: 3.8em;
+    font-weight: bold;
+line-height: 100%;
+letter-spacing: -5%; 
+}
+
+.container2 {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.group {
+    position: relative;
+    top: 6.5em;
+    left: 11em;
+}
+.sixty {
+    position: absolute;
+    top: 0.4em;
+    left: 10em;
+}
+.text{
+    width: 30%;
+    font-family: 'Inter';
+    position: absolute;
+    color: white;
+    top:28em;
+    left: 50.5em;
+    
+}
+.text p{
+    line-height: 100%;
+    letter-spacing: -5%;
+    font-size: 1.5em;
+}
